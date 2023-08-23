@@ -31,5 +31,5 @@ ___
 - New!!
 ```
 #### Lab 6 (1-5 Source Code) => [Click to view](https://cuddly-eyeliner-679.notion.site/Lab6-1620b9e24f1845d2a1fc5f7d66b50f91?pvs=4)
-#### Home Work VPN 6 (1-5 Source Code) => [Click to view]()
+#### Home Work VPN 6 (1-5 Source Code) => [Click to view](https://cuddly-eyeliner-679.notion.site/Home-Work-VPN-6-6e20850326bf464f9ec0501994268b9f?pvs=4)
 ___
