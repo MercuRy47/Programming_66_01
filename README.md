@@ -32,8 +32,13 @@ ___
 ___
 
 ## Week 09
+#### Lab 7 (1-5 Source Code) => [Click to view](https://cuddly-eyeliner-679.notion.site/Lab7-7e8fb8c6be7346979fce4c4da9e41809?pvs=4)
+___
+
+## Week 10
 ```diff
 - New!!
 ```
-#### Lab 7 (1-5 Source Code) => [Click to view](https://cuddly-eyeliner-679.notion.site/Lab7-7e8fb8c6be7346979fce4c4da9e41809?pvs=4)
+#### Lab 8 (1-5 Source Code) => [Click to view](https://cuddly-eyeliner-679.notion.site/Lab8-f8210dd89e144a64ae328bb206d195a4?pvs=4)
+#### Home Work VPN 7 (1-5 Source Code) => [Click to view](https://cuddly-eyeliner-679.notion.site/Home-Work-VPN-7-7f7e647df43b4d19bdbe6bc9b41a06e8?pvs=4)
 ___
